@@ -1,3 +1,2 @@
-# Desafios---beecrowd
-Esssa  biblioteca registra meus primeiros códigos, a nivel de aprendizado . 
-Exercicos para composição de nota do primeiro semestre.
+Primeiros Códicos
+Essa biblioteca registra meus primeiros códigos,   com finalidade de composição de nota do primeiro semestre academico.
